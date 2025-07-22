@@ -1,38 +1,38 @@
-# Hi there, I'm a Software Architect 👋
+# Hi there, I'm Seevali Rathnayake 👋
 
 ## 🏗️ About Me
 
-I'm a passionate Software Architect with expertise in designing scalable, robust, and innovative software solutions. I specialize in translating complex business requirements into technical architectures that drive organizational success.
+I'm a passionate Software Developer and Solution Architect specializing in .NET technologies and cloud-native solutions. With expertise in clean architecture patterns and modern development practices, I focus on building scalable, maintainable applications that solve real-world problems.
 
 ## 🔭 What I Do
 
-- **System Architecture Design**: Creating scalable microservices and distributed systems
-- **Technology Leadership**: Guiding technical decisions and architectural patterns
-- **Cloud Solutions**: Designing cloud-native applications and infrastructure
-- **Technical Strategy**: Aligning technology roadmaps with business objectives
-- **Team Mentorship**: Leading development teams and fostering best practices
+- **.NET Development**: Expertise in C#, ASP.NET Core, and modern .NET ecosystem
+- **Clean Architecture**: Implementing CQRS, MediatR, and Domain-Driven Design patterns
+- **Azure Cloud Solutions**: Designing and deploying cloud-native applications on Microsoft Azure
+- **Educational Content**: Creating learning scenarios and technical resources for the developer community
+- **Open Source Contributions**: Building tools and libraries to help fellow developers
 
-## 🛠️ Technologies & Tools
+## 🛠️ Core Technologies & Expertise
 
-- **Languages**: Java, Python, JavaScript/TypeScript, C#, Go
-- **Cloud Platforms**: AWS, Azure, Google Cloud Platform
-- **Architecture Patterns**: Microservices, Event-Driven, Domain-Driven Design
-- **Containers & Orchestration**: Docker, Kubernetes, OpenShift
-- **Databases**: PostgreSQL, MongoDB, Redis, Elasticsearch
-- **Message Queues**: Apache Kafka, RabbitMQ, AWS SQS
-- **DevOps**: CI/CD, Terraform, Jenkins, GitLab CI
+- **Languages**: C#, .NET Core/Framework, JavaScript/TypeScript
+- **Cloud Platform**: Microsoft Azure (primary focus)
+- **Architecture Patterns**: Clean Architecture, CQRS, MediatR, Domain-Driven Design
+- **Development Tools**: Visual Studio, VS Code, Git
+- **Database Technologies**: SQL Server, Entity Framework
+- **Web Technologies**: ASP.NET Core, Web APIs, SignalR
+- **Security**: Ethical hacking principles and secure coding practices
 
 ## 🌱 Current Focus
 
-- Exploring emerging technologies in AI/ML integration
-- Advancing expertise in serverless architectures
-- Contributing to open-source architectural frameworks
-- Researching sustainable software development practices
+- Advancing Azure cloud architecture expertise
+- Exploring modern .NET development patterns and best practices
+- Creating educational content and interactive learning experiences
+- Building developer tools and utilities for enhanced productivity
 
 ## 💬 Let's Connect
 
-I'm always interested in discussing software architecture, system design challenges, and emerging technologies. Feel free to reach out for collaboration opportunities or technical discussions!
+I'm always excited to discuss .NET development, Azure solutions, clean architecture patterns, and educational technology. Feel free to reach out for collaboration on open-source projects or technical discussions!
 
-## 📈 Architecture Philosophy
+## 📈 Development Philosophy
 
-> "Great architecture is not about predicting the future, but about creating systems flexible enough to adapt to it."
+> "Clean code is not written by following a set of rules. Clean code is written by someone who cares about their craft and the people who will maintain it."
