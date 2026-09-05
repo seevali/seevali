@@ -1,6 +1,6 @@
 ## Seevali Rathnayake
 
-Software architect. Colombo, Sri Lanka.
+Software Architect. Colombo, Sri Lanka.
 
 I build systems for a living — microservices, migration paths, the kind of work that's invisible when done well. I think of architecture as constraint management, not technology selection.
 
